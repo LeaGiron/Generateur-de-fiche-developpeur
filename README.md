@@ -26,7 +26,7 @@ J'ai réalisé ce mini-projet dans le but de mobiliser mes compétences.
 ├── style.css
 ├── script.js
 ├── README.md
-└── (optionnel) screen-fiche-developpeur.png
+└── screen-fiche-developpeur.png
 
 
 ---
