@@ -1,4 +1,4 @@
-# 📄 Générateur de Fiche Perso 
+# 📄 Générateur de Fiche Développeur 
 
 Bienvenue dans mon projet HTML/CSS/JavaScript 🎉  
 Ce petit outil simple mais efficace permet de créer une **fiche d'identité de développeur personnalisée** !
