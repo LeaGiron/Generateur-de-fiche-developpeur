@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Fiche Développeur Informatique</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Générateur de fiche perso - Façon développeur informatique</h1>
+
+    <label> Prénom : <input type="text" id="prenom" /> </label><br>
+    <label> Âge : <input type="number" id="age" /> </label><br>
+    <label> Spécialité : <input type="text" id="specialite" /> </label><br>
+    <label> Années d'expérience : <input type="text" id="annees" /> </label><br>
+    <label> Langages : <input type="text" id="langages" /> </label><br>
+    <label> Technos favorite : <input type="text" id="technos" /> </label><br>
+    <label> Objectif pro : <input type="text" id="objectif" /> </label>
+
+  <button onclick="genererFiche()"> Générer la fiche ! </button>
+
+  <div id="fiche-resultat"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
